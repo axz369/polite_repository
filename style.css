@@ -256,7 +256,8 @@ img {
   width: 60%;
 
 }
-.contact-item{
+.access-list{
+  width: 40%;
   padding: 40px;
 }
 /*--------------------------------
@@ -369,77 +370,37 @@ img {
     font-size: 14px;
     line-height: 1.7;
   }
+  /*menu*/
+  .menu-list{
+    width: 100%;
+    margin: 0 auto;  
+    display: block;
+    padding-top: 20px;
+  }
+  .menu-item{
+    width:100%;
+    text-align: center;
+    height: 200px;
+  }
 
   /* Works */
-  .works-name {
-    font-size: 12px;
+  .concept{
+    width: 90%;
+    font-size: 15px;
   }
 
-  .works-info {
-    margin-top: 3px;
-  }
-
-  .works-visual{
-    width: 100%;
-  }
-
-  .works-explanation{
-    padding: 30px;
-    width: 100%;
-  }
-
-  .works-list {
-    justify-content: space-between;
-  }
-
-  .works-item {
-    flex: 0 0 48%;
-    margin: 0 auto;
-    margin-bottom: 30px;
+  /* access */
+  .access-content{
     display: block;
   }
-
-  /* Skill */
-  .skill-list {
-    display: block;
-    margin-bottom: 0;
-  }
-
-  .skill-item {
+  .access-map{
     width: 100%;
-    margin-bottom: 35px;
-  }
-
-  .skill-item:last-child {
-    margin-bottom: 0;
-  }
-
-  .skill-name {
-    margin-bottom: 5px;
-  }
-
-  .skill-text {
-    font-size: 13px;
-    line-height: 1.7;
-  }
-
-  /* About */
-  .profile {
-    display: block;
-  }
-  .profile-img {
-    width: 150px;
-    margin: 0 auto;
-    margin-bottom: 25px;
-  }
-
-  .profile-body p {
-    font-size: 14px;
-    line-height: 1.7;
-  }
-
-  .profile-body p:not(:last-child) {
     margin-bottom: 20px;
+  }
+  .access-list{
+    width: 90%;
+    margin: 0 auto;
+    padding: 0;
   }
 
   /* フッター */
