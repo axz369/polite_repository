@@ -248,6 +248,9 @@ img {
   font-size: 20px;
   line-height: 60px;
 }
+.menu_new_price{
+  color: red;
+}
 
 .menu_new{
   width: 100%;
