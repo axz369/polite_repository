@@ -270,15 +270,16 @@ img {
   padding: 30px;
 }
 
-.menu-box{
-  display: flex;
-  width: 100%;
-}
 
 .menu-option{
   width: 70%;
   margin: 0 auto;
   margin-bottom: 150px;
+  text-align: center;
+}
+.menu-1item{
+  display: flex;
+  margin: 0 auto;
   text-align: center;
 }
 
