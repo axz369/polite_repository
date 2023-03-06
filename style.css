@@ -317,7 +317,11 @@ img {
 }
 .access-list{
   width: 40%;
-  padding: 40px;
+  padding: 0 40px;
+  font-size: 22px;
+}
+.adress{
+  padding-bottom: 30px;
 }
 /*--------------------------------
  access
@@ -345,7 +349,26 @@ img {
 }
 
 
-
+@media screen and (max-width: 1300px){
+  .access-content{
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+  }
+  .access-map{
+    width: 100%;
+  
+  }
+  .access-list{
+    width: 100%;
+    padding: 40px;
+    font-size: 20px;
+    margin: 0 auto;
+  }
+  .adress{
+    padding-bottom: 30px;
+  }
+}
 
 
 /*media 
@@ -507,6 +530,10 @@ img {
     width: 90%;
     margin: 0 auto;
     padding: 0;
+    font-size: 12px;
+  }
+  .adress{
+    padding-bottom: 15px;
   }
 
   /* フッター */
