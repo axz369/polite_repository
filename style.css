@@ -313,7 +313,7 @@ img {
 }
 .access-map{
   width: 60%;
-
+  height: 600px;
 }
 .access-list{
   width: 40%;
@@ -357,7 +357,7 @@ img {
   }
   .access-map{
     width: 100%;
-  
+    height: 700px;
   }
   .access-list{
     width: 100%;
@@ -385,6 +385,10 @@ img {
     font-size: 22px;
     border-bottom: solid 2px;
     margin: 0 auto;
+  }
+
+  .access-map{
+    height: 500px;
   }
   
   .menu-price{
@@ -559,5 +563,9 @@ img {
     font-size: 14px;
     line-height: 1.7;
     margin-bottom: 20px;
+  }
+
+  .access-map{
+    height: 300px;
   }
 }
