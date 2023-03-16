@@ -222,7 +222,17 @@ img {
 
 
 .menu_new_price{
-  font-size: 30px;
+  font-size: 35px;
+}
+
+.new-price-example{
+  margin-top: 50px;
+  border: 2px dotted black;
+  font-size: 20px;
+  padding: 20px;
+}
+.new-price-example-item1{
+  padding-bottom: 20px;
 }
 
 .menu-list{
@@ -298,6 +308,10 @@ img {
 .reserve{
   text-align: center;
 }
+
+.reserve-content{
+  font-size: 20px;
+}
 /*--------------------------------
  reserve
 ---------------------------------*/
@@ -322,6 +336,12 @@ img {
 }
 .adress{
   padding-bottom: 30px;
+}
+.access-polite{
+  font-size: 27px;
+}
+.access-number{
+  padding-bottom: 10px;
 }
 /*--------------------------------
  access
@@ -567,5 +587,8 @@ img {
 
   .access-map{
     height: 300px;
+  }
+  .access-polite{
+    font-size: 20px;
   }
 }
