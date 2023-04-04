@@ -311,6 +311,22 @@ img {
 
 .reserve-content{
   font-size: 20px;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.line-button{
+  background-color: #06c755;
+  width: 150px;
+  height: 50px;
+  margin: auto;
+  margin-top: 50px;
+  line-height: 50px;
+  border-radius: 3%
+}
+.line-button a{
+  color: black;
 }
 /*--------------------------------
  reserve
