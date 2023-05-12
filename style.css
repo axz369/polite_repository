@@ -254,11 +254,11 @@ img {
 }
 .menu-text{
   width: 70%;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 60px;
 }
 .menu-title{
-  font-size: 35px;
+  font-size: 22px;
   border-bottom: solid 2px;
   margin: 0 auto;
 }
@@ -418,9 +418,20 @@ img {
     line-height: 60px;
   }
   .menu-title{
-    font-size: 22px;
+    font-size: 25px;
     border-bottom: solid 2px;
     margin: 0 auto;
+  }
+  .menu-list{
+    width: 100%;
+    margin: 0 auto;  
+    display: block;
+    padding-top: 20px;
+  }
+  .menu-item{
+    width:100%;
+    text-align: center;
+    padding: 0;
   }
 
   .access-map{
