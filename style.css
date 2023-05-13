@@ -259,8 +259,20 @@ img {
 }
 .menu-title{
   font-size: 22px;
-  border-bottom: solid 2px;
+}
+.title-container{
+  font-size: 22px;
   margin: 0 auto;
+  border-bottom: solid 2px;
+}
+.color-title-container{
+  border-bottom: solid 2px;
+  height: 110px;
+}
+
+.menu-color{
+  font-size: 25px;
+  
 }
 
 .menu-price{
@@ -419,7 +431,6 @@ img {
   }
   .menu-title{
     font-size: 25px;
-    border-bottom: solid 2px;
     margin: 0 auto;
   }
   .menu-list{
@@ -539,13 +550,18 @@ img {
   }
   .menu-title{
     font-size: 18px;
-    border-bottom: solid 2px;
     margin: 0 auto;
   }
   .menu-item{
     width:100%;
     text-align: center;
     padding: 0;
+  }
+  .menu-color{
+    font-size: 20px;
+  }
+  .color-title-container{
+    height: 90px;
   }
   .menu-price{
     font-size: 15px;
