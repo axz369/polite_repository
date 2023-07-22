@@ -340,6 +340,25 @@ img {
 .line-button a{
   color: black;
 }
+.line-reserve{
+  margin-bottom:100px;
+}
+.tel-reserve p{
+  margin-top: 10px;
+}
+.tel-button{
+  background-color: #e28b81;
+  width: 180px;
+  height: 50px;
+  margin: auto;
+  margin-top: 50px;
+  line-height: 50px;
+  border-radius: 3%;
+}
+.tel-reserve a{
+  color: #333;
+  padding: 10px;
+}
 /*--------------------------------
  reserve
 ---------------------------------*/
